@@ -44,9 +44,9 @@ This dashboard provides a detailed visualization of credit card revenue, transac
 
 ## 🖼️ Screenshot
 
-![Credit Card Transaction Report Dashboard](Credit Card Performance Dashboard.png)
+![Credit Card Transaction Report Dashboard](Credit_Card_Performance_Dashboard.png)
 
-> _Replace the above image with your actual screenshot._
+
 
 ---
 
